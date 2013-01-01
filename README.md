@@ -1,8 +1,8 @@
 PinShadow_fireworks
 ===================
 
-![pinshadow fireworks 1](result_images/pinshadow_fireworks.png)
-![pinshadow fireworks 2](result_images/pinshadow_fireworks2.png)
+![pinshadow fireworks 1](https://github.com/shengpo/PinShadow_fireworks/blob/master/result_images/pinshadow_fireworks.png)
+![pinshadow fireworks 2](https://github.com/shengpo/PinShadow_fireworks/blob/master/result_images/pinshadow_fireworks2.png)
 
 
 ##This is a fireworks version of Pin Shadow project for celebrating NEW 2013 YEAR!!
