@@ -26,7 +26,7 @@ or just unzip this project and go to **[applications]** directory to run the app
 
 非常歡迎您從[這邊](https://github.com/shengpo/PinShadow_fireworks/archive/master.zip)下載本project，然後研究它。或是將它從[Processing IDE](http://processing.org/download/)打開並執行他。
 
-也可以在[下載](https://github.com/shengpo/PinShadow_fireworks/archive/master.zip)完解壓縮後，進入**[applications]**資料夾，根據您的作業系統選擇一個執行檔來執行本程式。
+也可以在[下載](https://github.com/shengpo/PinShadow_fireworks/archive/master.zip)完解壓縮後，進入 **[applications]** 資料夾，根據您的作業系統選擇一個執行檔來執行本程式。
 
 ####ps. 解壓縮後，請將資料夾名稱重新命名為"PinShadow_fireworks"，避免用Processing IDE開啟時出現project名稱錯誤的訊息
 
